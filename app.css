@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background: none;
+	color: #000;
+	
+	font-family: 'Georgia', serif;
+	font-size:36px;
+	
+	height: 2500px;
+	position:relative;
+}
+
+#Answer1{
+	text-decoration: none;
+	background-color: #F00;
+	color:#FFF;
+}
+#Answer2{
+	text-decoration: none;
+	background-color: #30F;
+	color: #FFF;
+}
+#Answer3{
+	text-decoration: none;
+	background-color: #6F0;
+	color: #FFF;
+}
+#Answer4{
+	text-decoration: none;
+	background-color:#FC3;
+	color: #FFF;
+}
+</body>
+	
